@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow import keras
 import matplotlib.pyplot as plt
 
-PATH="/scratch/pjacquet/"
+PATH="/artifacts/"
 Nb_Epochs = 100
 
 def get_compiled_model():
